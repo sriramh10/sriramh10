@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sriramh10
 - 👀 I’m interested in Machine Learning, Football Statistics
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning, Python, Football analysis
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Football analytics using statistics
 - 📫 How to reach me on my website ramspro.in 
 
 <!---
